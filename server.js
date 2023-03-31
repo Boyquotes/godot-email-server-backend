@@ -40,7 +40,7 @@ app.use('/sendit', (req, res) => {
         <h3 style="font-family:Gill Sans;font-weight:400">${body}</h3>
         <br>
         <h3 style="font-family:Gill Sans;font-weight:400">Can’t wait to see you there! </h3>
-        <a href=${link} style="background-color:#3770ff;border-radius:4px;color:#fff;display:flex;font-family:Gill Sans;font-weight:700;outline:none;padding:1rem 2rem;white-space:nowrap;text-decoration:none;width:8rem" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://neohacks.devfolio.co/&amp;source=gmail&amp;ust=1680326293862000&amp;usg=AOvVaw3Fg-8ZPL5deQ2STjO3fnwE">Register Now</a> 
+        <a href="https://www.google.com/" style="background: linear-gradient(to right, #CFA911 0%, #CF1512 100%);border-radius:4px;color:#fff;display:flex;font-family:Gill Sans;font-weight:700;outline:none;padding:1rem 2rem;white-space:nowrap;text-decoration:none;width:8rem" target="_blank">Register Now</a>  
         <br/>
         <h4 style="font-family:Gill Sans;font-weight:400; line-height: 1.5rem;">Regards<br/>Team GoDot<br/>Thank You</h4>
         </div>`;
