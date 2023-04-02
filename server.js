@@ -84,7 +84,7 @@ app.use('/sendit', (req, res) => {
         }
     };
 
-    var intervalId = setInterval(varName, 1500);
+    var intervalId = setInterval(varName, 2500);
 });
 
 app.get('/', (req, res) => { res.json({ message: "You've come to the right place... it's a GET request!!" }) });
